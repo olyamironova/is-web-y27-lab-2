@@ -36,7 +36,6 @@ img {
     background: url("../img/Main\ bg.jpg") no-repeat;
     padding-top: 22px;
     text-align: center;
-    width: 1920px;
 }
 
 .logo-img {
@@ -112,7 +111,6 @@ h1, .subheader, .first-webinar-date {
 
 .awaits {
     height: 592px;
-    width: 1920px;
     text-align: center;
 }
 
@@ -152,7 +150,6 @@ h1, .subheader, .first-webinar-date {
 .online-radio {
     background-color: #0F0B0B;
     height: 564px;
-    width: 1920px;
     display: inline-block;
 }
 
@@ -169,7 +166,6 @@ h1, .subheader, .first-webinar-date {
     text-align: right;
     color: white;
     font-size: 16px;
-    width: 750px;
     height: 272px;
     font: Roboto;
     margin-left: 780px;
@@ -192,7 +188,6 @@ h1, .subheader, .first-webinar-date {
 .functional {
     background-image: url("../img/Bg.jpg");
     height: 450px;
-    width: 1920px;
 }
 
 .functional-header {
@@ -252,7 +247,6 @@ h1, .subheader, .first-webinar-date {
 }
 
 .present {
-    width: 1920px;
     height: 613px;
     text-align: center;
 }
@@ -269,7 +263,6 @@ h1, .subheader, .first-webinar-date {
 }
 
 .webinar {
-    width: 1920px;
     height: 528px;
     background-color: black;
     text-align: center;
@@ -299,7 +292,6 @@ h1, .subheader, .first-webinar-date {
 }
 
 .footer {
-    width: 1920px;
     height: 165px;
     background-color: #1A1A1A;
 }
